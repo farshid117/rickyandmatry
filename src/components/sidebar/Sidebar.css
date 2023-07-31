@@ -1,0 +1,42 @@
+.sidbar {
+    padding: 0;
+    margin: 0;
+    z-index: 100000 !important;
+    background-color: #0222a1 !important;
+    height: 100vh !important;
+    overflow-y: auto !important;
+    
+}
+
+.sidbar.dark {
+    background-color: #0b0f2f !important;
+}
+
+.MuiTab-root {
+    justify-content: start !important;
+    min-height: 35px !important;
+    margin: 5px !important;
+    border-radius: 7px !important;
+    position: sticky !important;
+    overflow-y: auto !important;
+
+
+}
+
+.MuiTab-root.dark {
+    background-color: #313763 !important;
+
+}
+
+.MuiTab-root.light {
+    background-color: #efefef !important;
+
+}
+
+/* .MuiTab-textColorPrimary {
+    color: #fff !important;
+} */
+
+/* .MuiTab-textColorPrimary:focus {
+    color: gold !important;
+} */

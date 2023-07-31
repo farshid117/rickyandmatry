@@ -1,0 +1,12 @@
+.Comments {
+    height: 100vh;
+    overflow-y: scroll !important;
+    background-color: #efefef;
+}
+.Comments.dark{
+    background-color: #313763 !important;
+}
+.slick-dots li button{
+    color: transparent !important;
+    background: transparent !important;
+}

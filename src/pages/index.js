@@ -1,0 +1,6 @@
+export { default as Home } from "./home/Home"
+export { default as Logins } from "./login/Logins"
+export { default as About } from "./about/About"
+export { default as Ricky } from "./ricky/Ricky"
+export { default as Gallery } from "./rickyGallery/Gallery"
+export { default as Contact } from "./contact/Contact"  
